@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ADdasuan
+
 - 👀 I am interested in android application development 
 - 🌱 I'm studying now
 <!---
